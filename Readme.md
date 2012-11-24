@@ -1,5 +1,4 @@
 [![Build Status](https://secure.travis-ci.org/microjs/simplify.png?branch=master)](https://travis-ci.org/microjs/simplify)
-
 # simplify
 
   simplify is a high-performance JavaScript polyline simplification library
