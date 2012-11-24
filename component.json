@@ -1,0 +1,16 @@
+{
+  "name": "simplify",
+  "repo": "microjs/simplify",
+  "description": "simplify is a high-performance JavaScript polyline simplification library",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {
+    "microjs/simplify-2D": "*",
+    "microjs/simplify-3D": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@ForbesLindesay"
+}
