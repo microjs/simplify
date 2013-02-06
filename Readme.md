@@ -3,7 +3,7 @@
 
   simplify is a high-performance JavaScript polyline simplification library
 
-  If you only need a 3D simplification library, check out [microjs/simplify-2D](https://github.com/microjs/simplify-2D).
+  If you only need a 2D simplification library, check out [microjs/simplify-2D](https://github.com/microjs/simplify-2D).
 
   If you only need a 3D simplification library, check out [microjs/simplify-3D](https://github.com/microjs/simplify-3D).
 
